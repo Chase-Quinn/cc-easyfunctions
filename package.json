@@ -1,0 +1,15 @@
+{
+  "name": "@chasecoding/easyfunctions",
+  "version": "1.0.0",
+  "description": "Some easy functions to show how to create an npm package and post it to the NPM Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "easyfunctions",
+    "chasecoding"
+  ],
+  "author": "ChaseCoding",
+  "license": "ISC"
+}
